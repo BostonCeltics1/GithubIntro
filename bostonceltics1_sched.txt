@@ -13,3 +13,11 @@ Per 3: PE Gym
 Per 4: Regular Precalculus B-4
 Per 5: Honors US History 116
 Per 6: Honors American Literature 108
+
+Name: Aaron Gonzalez
+Per 1: Digital Electronics, Rm B13
+Per 2: Ap Computer Science, Rm B13
+Per 3: Graphics Design, Rm I
+Per 4: AP Calculus, Rm B6
+Per 5: ERWC, Rm 122
+Per 6: Economics/Government, Rm 406
