@@ -21,3 +21,11 @@ Per 3: Graphics Design, Rm I
 Per 4: AP Calculus, Rm B6
 Per 5: ERWC, Rm 122
 Per 6: Economics/Government, Rm 406
+
+Name: Yash Shah
+Per 1: AP Physics, Rm 415
+Per 2: AP Computer Science, Rm B13
+Per 3: Economics, Rm 406
+Per 4: ERWC, Rm 122
+Per 5: AP Calculus, Rm 415
+Per 6: AP Statistics, Rm B10
